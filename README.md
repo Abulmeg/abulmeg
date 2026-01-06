@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220" />
 
   <br><br>
 
@@ -56,15 +56,7 @@
 ### 🏆 ACHIEVEMENTS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abulmeg&show_icons=true&theme=gruvbox&hide_border=true&icon_color=FF7B00&title_color=FF7B00" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=abulmeg&theme=gruvbox&hide_border=true&fire=FF7B00" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abulmeg&theme=gruvbox&no-frame=true&margin-w=12" />
 </div>
 
 ---
@@ -75,9 +67,14 @@
 
 ---
 
-### 📫 SEND MESSAGE
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abulmeg/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF7B00?style=for-the-badge&logo=linkedin&logoColor=wh
+<p align="center">
+  <a href="https://www.linkedin.com/in/abulmeg/">
+    <img src="https://img.shields.io/badge/LINKEDIN-FF7B00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adammigdadi@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FF7B00?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abulmeg">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FF7B00?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
