@@ -37,11 +37,14 @@ I am passionate about writing clean, optimized code and am actively seeking oppo
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m3gd4d1&show_icons=true&theme=transparent&hide_border=false&title_color=FF8C00&text_color=FFF&icon_color=FF8C00" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3gd4d1&layout=compact&theme=transparent&hide_border=false&title_color=FF8C00&text_color=FFF" height="180" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3gd4d1&theme=high-contrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3gd4d1&layout=compact&theme=transparent&hide_border=true&title_color=FF8C00&text_color=FFF" alt="Top Languages" />
 </div>
 
 ---
