@@ -12,6 +12,11 @@
 
   <img src="https://komarev.com/ghpvc/?username=abulmeg&label=XP+GAINED&color=fe7d00&style=for-the-badge" />
 
+  <br><br>
+
+  🏆 **IEEEXtreme 18.0** — 2nd in Jordan 🇯🇴 | Top 1% Worldwide  
+  🧠 **CORE FOCUS:** Artificial Intelligence • ML • Competitive Programming
+
 </div>
 
 ---
@@ -66,6 +71,8 @@
 ![snake](https://github.com/abulmeg/abulmeg/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+### 📬 CONTACT ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abulmeg/">
