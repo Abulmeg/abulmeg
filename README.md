@@ -8,7 +8,14 @@ Software · Mobile · Embedded Systems · IoT · Machine Learning
 
 I like building systems where software connects with hardware and real-world problems.
 
-[LinkedIn](https://www.linkedin.com/in/abulmeg/) · [Email](mailto:abulmegdev@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abulmeg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abulmegdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -104,21 +111,16 @@ I enjoy understanding how the different parts of a system work together, not jus
 
 A full-stack IoT prototype for monitoring environmental conditions and remotely controlling equipment inside a seed storage facility.
 
-The goal was to build the complete flow from sensor data to a live dashboard and back to equipment control.
+The project covers the complete flow from sensor telemetry to live monitoring and equipment control.
 
 ### What it does
 
-- Receives temperature, humidity, CO₂, light, and air-quality readings through MQTT
-- Stores historical telemetry in PostgreSQL
-- Updates the dashboard live using WebSocket
-- Displays historical temperature and humidity trends
+- Receives environmental telemetry through MQTT
+- Stores historical readings in PostgreSQL
+- Updates the React dashboard live through WebSocket
 - Controls ventilation, cooling, and dehumidification
-- Waits for controller acknowledgement before changing equipment state
-- Detects environmental threshold violations
-- Detects sensors that stop reporting
-- Uses JWT authentication and role-based access
-- Requires authenticated MQTT clients
-- Runs PostgreSQL and Mosquitto through Docker
+- Detects threshold violations and sensor dropouts
+- Uses JWT roles and authenticated MQTT connections
 
 ### Stack
 
@@ -139,97 +141,35 @@ The goal was to build the complete flow from sensor data to a live dashboard and
 
 ## Rattibha
 
-Rattibha started as a university schedule builder for students at JUST and later expanded into a web and mobile student platform.
+A web and mobile student platform built for students at JUST.
 
-The main idea is to make university systems easier to use from one place instead of jumping between different services.
+It started as a schedule builder and expanded into a central place for schedules, academic services, eLearning, exams, tasks, and notifications.
 
-### Website
+### Highlights
 
-- Search courses and sections
-- Build university schedules
-- Save schedules
-- Work with official course and section data
+- Course and section search with schedule building
+- Saved schedules and official university data
+- React Native mobile application
+- Academic and university-service integrations
+- eLearning updates and student notifications
 - Arabic and English support
-- Student authentication
-
-### Mobile App
-
-- Personal university schedule
-- Academic information
-- Registered courses
-- Exams and tasks
-- eLearning integration
-- Notifications for academic updates
-- University-service integrations
-- Arabic and English interface
 
 ### Stack
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-20232a?style=flat-square&logo=expo&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Supabase-20232a?style=flat-square&logo=supabase&logoColor=3FCF8E" />
-<img src="https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/REST%20APIs-20232a?style=flat-square" />
-</p>
-
-The main source repositories are private.
-
-A public project overview will contain screenshots, architecture, features, and technical decisions without exposing the private source.
-
 ---
 
 ## Health Machine Learning Study
 
-A machine learning project using three different health datasets and three different types of ML problems.
+A machine learning project built around three health datasets and three different types of ML problems.
 
-### Heart-Failure Classification
+| Task | Goal |
+| --- | --- |
+| **Classification** | Heart-failure risk classification |
+| **Regression** | Body-fat percentage estimation |
+| **Clustering** | Exploring obesity patterns with K-Means |
 
-Built and compared classification models to identify patients at higher risk.
-
-The work included class imbalance, model comparison, threshold tuning, cross-validation, and evaluation using recall, F1, and ROC-AUC.
-
-### Body-Fat Regression
-
-Used body measurements to estimate body-fat percentage.
-
-Several regression approaches were compared and evaluated using MAE, RMSE, and R².
-
-### Obesity Clustering
-
-Used K-Means clustering to explore patterns in obesity-related data without using the existing labels as the target.
-
-I also tested cluster stability and compared different values of K.
-
-### What I worked on
-
-- Data cleaning
-- Exploratory data analysis
-- Feature engineering
-- Feature selection
-- Classification
-- Regression
-- Clustering
-- Cross-validation
-- Hyperparameter tuning
-- Ensemble models
-- Model evaluation
-- Result interpretation and limitations
+The work included data cleaning, exploratory analysis, feature engineering, model comparison, cross-validation, tuning, and evaluation.
 
 ### Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/pandas-20232a?style=flat-square&logo=pandas&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/scikit--learn-20232a?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Classification-20232a?style=flat-square" />
-<img src="https://img.shields.io/badge/Regression-20232a?style=flat-square" />
-<img src="https://img.shields.io/badge/K--Means-20232a?style=flat-square" />
-</p>
-
-Public repository coming soon.
 
 ---
 
@@ -239,7 +179,7 @@ I've worked with Arduino and ESP32 through university courses and personal proje
 
 I've built projects using sensors, microcontrollers, and embedded logic, and I've also built and programmed robots for robotics competitions.
 
-I don't really care about treating hardware and software as two completely separate things. The part I enjoy is making the entire system work together:
+What I enjoy most is connecting the whole system instead of treating hardware and software as separate parts:
 
 <div align="center">
 
