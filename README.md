@@ -155,6 +155,18 @@ It started as a schedule builder and expanded into a central place for schedules
 - Arabic and English support
 
 ### Stack
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-20232a?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Supabase-20232a?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+<img src="https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</p>
+
+[View Case Study](https://github.com/Abulmeg/Rattibha-Case-Study) · [Live Website](https://www.rattibha.online/)
+
 ---
 
 ## Health Machine Learning Study
@@ -170,6 +182,16 @@ A machine learning project built around three health datasets and three differen
 The work included data cleaning, exploratory analysis, feature engineering, model comparison, cross-validation, tuning, and evaluation.
 
 ### Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/pandas-20232a?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-20232a?style=flat-square&logo=numpy&logoColor=4D77CF" />
+<img src="https://img.shields.io/badge/scikit--learn-20232a?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Matplotlib-20232a?style=flat-square" />
+</p>
+
+[View Repository](https://github.com/Abulmeg/health-ml-study)
 
 ---
 
